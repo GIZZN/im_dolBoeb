@@ -1,0 +1,62 @@
+:root {
+  --purple: #500d78;
+  --purple-light: #8f65a9;
+  --purple-medium: #6f3990;
+  --purple-medium-dark: #5f2384;
+  --purple-dark: #3a0956;
+  --purple-xdark: #310849;
+  --purple-shadow: #1c0526;
+  --black: #14011e;
+  --white: #feffff;
+  --white-shadow: rgba(20, 1, 30, 0.15);
+  --shadow: #6f3890;
+  --shadow-dark: #4b0c72;
+  --shadow-medium: #572179;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: var(--purple);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  position: absolute;
+}
+
+*:before,
+*:after {
+  content: "";
+  position: absolute;
+}
+
+body {
+  background: var(--purple);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
