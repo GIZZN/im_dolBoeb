@@ -185,7 +185,7 @@ export default function Home() {
           hoverIntensity={0.3} 
           enableHover={true}
         >
-          теперь ты моджеш гладить фиолетового кота ;з
+          теперь ты можеш гладить фиолетового кота ;з
         </FuzzyText>
       </div>
       <div className={styles.buttonContainer}>
