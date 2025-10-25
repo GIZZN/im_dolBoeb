@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "im_dolBoeb",
-  description: "мне ващето было обидно",
+  description: "мур мур мур",
 };
 
 export default function RootLayout({
