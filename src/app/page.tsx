@@ -27,7 +27,7 @@ export default function Home() {
           hoverIntensity={0.4} 
           enableHover={true}
         >
-          Ну  вот  я  сделал  кота
+          кот для милой белой девички
         </FuzzyText>
       </div>
       <div className={`${styles.windowGroup} ${styles.shadow}`}>
@@ -185,7 +185,7 @@ export default function Home() {
           hoverIntensity={0.3} 
           enableHover={true}
         >
-          теперь ты перестанешь меня игнорить?
+          теперь ты моджеш гладить фиолетового кота ;з
         </FuzzyText>
       </div>
       <div className={styles.buttonContainer}>
