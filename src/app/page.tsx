@@ -27,7 +27,7 @@ export default function Home() {
           hoverIntensity={0.4} 
           enableHover={true}
         >
-          кот для милой белой девички
+          кот для милой белой девочки
         </FuzzyText>
       </div>
       <div className={`${styles.windowGroup} ${styles.shadow}`}>
